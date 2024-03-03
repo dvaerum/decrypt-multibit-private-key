@@ -1,0 +1,7 @@
+[submodule "extra-lib/apache/commons-codec"]
+	path = extra-lib/apache/commons-codec
+	url = https://github.com/apache/commons-codec
+	branch = 1.9
+[submodule "extra-lib/rtyley/spongycastle"]
+	path = extra-lib/rtyley/spongycastle
+	url = https://github.com/rtyley/spongycastle
